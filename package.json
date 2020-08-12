@@ -1,0 +1,29 @@
+{
+  "name": "next-base-website",
+  "version": "1.0.0",
+  "description": "Starter boilerplate for website with NextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurodaSensei/next-base-website.git"
+  },
+  "author": "Alfredo Romero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurodaSensei/next-base-website/issues"
+  },
+  "homepage": "https://github.com/kurodaSensei/next-base-website#readme",
+  "dependencies": {
+    "google-map-react": "^2.0.8",
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-slick": "^0.27.7",
+    "slick-carousel": "^1.8.1"
+  }
+}
