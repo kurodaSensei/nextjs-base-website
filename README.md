@@ -1,11 +1,11 @@
-# next-base-website
+# :page_with_curl: next-base-website
 Base project to build website with React, Next and Bootstrap
 ![](https://raw.githubusercontent.com/kurodaSensei/nextjs-base-website/master/screenshot.png)
 
-## What's inside?
-It is a simple base project, configured and optimized for SEO, ideal for creating static websites with NextJS and React, although it also uses an API module that gets content from the server with fecth, there are also several sections of the page that are built as components to facilitate reuse and contains a default layout. It uses bootstrapping via CDN, to improve performance.
+## :question: What's inside?
+It is a simple base project, configured and optimized for SEO, ideal for creating static websites with NextJS and React, although it also uses an API module that gets content from the server with fetch, there are also several sections of the page that are built as components to facilitate reuse and contains a default layout. It uses bootstrapping via CDN, to improve performance.
 
-## What's next?
+## :rocket: What's next?
 
 * Improve responsive support.
 * Scrollspy on the menu.
